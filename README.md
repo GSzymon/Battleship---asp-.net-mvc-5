@@ -2,11 +2,10 @@
 
 In progress:
 
-done:
--> player, map, field models, majority of whole logic
-
-to do:
--> "parser" class for creating Players objects, handling methods implemented in above class (there will be main logic)
--> simple controllers based on ParserClass
--> frontend/clientside  
+done:<br />
+-> player, map, field models, majority of whole logic<br /><br />
+to do:<br />
+-> "parser" class for creating Players objects, handling methods implemented in above class (there will be main logic)<br />
+-> simple controllers based on ParserClass<br />
+-> frontend/clientside  <br />
  
