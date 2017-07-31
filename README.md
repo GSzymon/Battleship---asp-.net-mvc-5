@@ -6,7 +6,7 @@ done:<br />
 -> models: player, map, field<br />
 -> majority of application logic<br /><br />
 to do:<br />
--> "parser" class for creating Players objects, handling methods implemented in above class (there will be main logic)<br />
--> simple controllers based on ParserClass<br />
+-> db which contains all informations about games and players<br />
+-> BattleController based on db and methods from class Game and Player<br />
 -> frontend/clientside  <br />
  
